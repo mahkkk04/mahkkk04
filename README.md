@@ -1,4 +1,4 @@
-<h1 align="center">Hello !! I am Mahak <img src="https://raw.githubusercontent.com/mahaklachhwani-0412/mahak lachhwani/main/wave.gif" width="40px" height="40px" /> </h1>
+<h1 align="center">Hello !! I am Mahak <img src="https://raw.githubusercontent.com/mahaklachhwani-0412/mahak-lachhwani/main/hi.gif" width="40px" height="40px" /> </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:mahaklachhwani0412@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" /></a>

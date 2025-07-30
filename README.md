@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:mahaklachhwani0412@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="" target="_blank">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
 </a>
 

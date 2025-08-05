@@ -72,12 +72,12 @@
 </table>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahaklachhwani-0412&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahaklachhwani-0412&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mahkkk0412&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mahkkk0412&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaklachhwani-0412&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahaklachhwani-0412&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mahkkk04&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

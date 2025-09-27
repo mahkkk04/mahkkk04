@@ -13,18 +13,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="mailto:mahaklachhwani0412@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
+  <a href="#">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
+
+
+<a href="#">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
 </p>
 
 

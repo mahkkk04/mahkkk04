@@ -1,9 +1,18 @@
 <p align="left" style="margin:0;">
   <img src="https://komarev.com/ghpvc/?username=mahkkk04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<h1 align="center" style="margin-bottom:5px;">Hello! I am Mahak <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="23" /></h1>
 
-<p align="center" style="margin:0;">
+<h1 align="center" style="margin-bottom:5px;">
+  Hello! I am Mahak 
+  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" 
+       alt="Beaming Face with Smiling Eyes" width="23" />
+</h1>
+
+<p align="center">
+  Aspiring software engineer and machine learning enthusiast, continually exploring new technologies and solutions.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>

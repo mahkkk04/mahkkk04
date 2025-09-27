@@ -1,24 +1,37 @@
-<h1 align="center">Hello !! I am Mahak <img src="https://raw.githubusercontent.com/mahaklachhwani-0412/mahak-lachhwani/main/hi.gif" width="40px" height="40px" /> </h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:mahaklachhwani0412@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-</a>
-
+<p align="left" style="margin:0;">
+  <img src="https://komarev.com/ghpvc/?username=mahkkk04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+<h1 align="center" style="margin-bottom:5px;">Hello! I am Mahak <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="23" /></h1>
+
+<p align="center" style="margin:0;">
+  <a href="https://www.linkedin.com/in/mahak-lachhwani-72a042362/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahaklachhwani0412@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
-## About Me:
 
- 🎓 *Education*:
+### About Me 🌟
 
-  - Currently pursuing BTech in Information Technology, IIIT BHOPAL.
-  - Keenly focusing on optimizing end-to-end machine learning workflow and Passionate about transforming data into actionable insights for product optimization.
-  - I enjoy solving problems with data structures and algorithms, and I'm always looking for new opportunities to learn and grow in AI and machine learning.
+🎓 **Education**:  
+- BTech in Information Technology, IIIT Bhopal 🎓  
 
-## 💻 Tech Stack
+💡 **Interests & Passion**:  
+- ❤️ Passionate about **AI, Machine Learning, and Data Analytics**  
+- 🧩 Enjoy solving problems with **data structures, algorithms & ML workflows**  
+- 📊 Transforming **data into actionable insights** for product optimization  
+- <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="20" /> Always excited to **learn new technologies** and grow
+
+
+### 🚀 Tech Stack
 
 <table>
   <tr>
@@ -26,58 +39,75 @@
     <th>Skills</th>
   </tr>
   <tr>
-    <td>Programming & Databases</td>
+    <td>Programming & Frameworks</td>
     <td>
-    <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/-C-0078D6?style=flat&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat" alt="Streamlit" />
+    </td>
+  </tr>
+  <tr>
+    <td>Databases & Backend</td>
+    <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j" />
+      <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
     </td>
   </tr>
   <tr>
-    <td>Libraries</td>
+    <td>Libraries & Data Science</td>
     <td>
-     <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
-      <img src="https://img.shields.io/badge/-NLTK-9C27B0?style=flat" alt="NLTK" />
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-      <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat" alt="PySpark" />
-      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/-Statsmodels-D62728?style=flat" alt="Statsmodels"/>
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat" alt="SciPy" />
+      <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     </td>
   </tr>
   <tr>
-    <td>DevOps & Visualization Tools</td>
+    <td>Design & Visualization</td>
     <td>
-     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat" alt="MLflow"/>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat" alt="Airflow"/>
-      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-      <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-      <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat" alt="Tableau"/>
-      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+      <img src="https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white" alt="Adobe" />
+      <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/-Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
+    </td>
+  </tr>
+  <tr>
+    <td>Version Control & Git</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahkkk04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahkkk04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahkkk04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔭 Currently Learning & Exploring
+- 🤖 Natural Language Processing with Transformers  
+- 🖼️ Deep Learning & Computer Vision Projects  
+- ☁️ Cloud Platforms (AWS, GCP)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahkkk04&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahkkk04&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahkkk04&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahkkk04&theme=dark&layout=compact" alt="Top Languages" />
+</p>
+
+
+### 🌱 Quote of the Day
+"Good code is its own documentation." — Steve McConnell✨
+

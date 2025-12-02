@@ -33,7 +33,7 @@
 ### About Me 🌟
 
 🎓 **Education**:  
-- BTech in Information Technology, IIIT Bhopal 🎓  
+- BTech in Information Technology 🎓  
 
 💡 **Interests & Passion**:  
 - ❤️ Passionate about **AI, Machine Learning, and Data Analytics**  

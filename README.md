@@ -13,20 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/mahak-lachhwani-b51620380/">
+  <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="mailto:mahaklachhwani0412@gmail.com">
+  <a href="#">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email"/>
   </a>
   <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
-
-
-<a href="#">
+  <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
+  </a>
 </p>
 
 

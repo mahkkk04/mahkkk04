@@ -1,6 +1,9 @@
 <p align="left" style="margin:0;">
   <img src="https://komarev.com/ghpvc/?username=mahkkk04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
 <h1 align="center" style="margin-bottom:5px;">
   Hello! I am Mahak 
